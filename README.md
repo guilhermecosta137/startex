@@ -23,7 +23,7 @@
   <h2 style="font-size: 2rem; margin: 30px 0 20px 0;">🏗️ Arquitetura Enterprise Completa</h2>
 </div>
 
-**SaaS Starter GrayCoder** é um **boilerplate completo e pronto para produção** desenvolvido por Guilherme Costa, um desenvolvedor full-stack especializado em React e TypeScript. Este projeto representa o ápice das melhores práticas modernas de desenvolvimento web.
+**SaaS StarteX** é um **boilerplate completo e pronto para produção** desenvolvido por Guilherme Costa, um desenvolvedor full-stack especializado em React e TypeScript. Este projeto representa o ápice das melhores práticas modernas de desenvolvimento web.
 
 ### 🎯 O que torna este projeto especial?
 
