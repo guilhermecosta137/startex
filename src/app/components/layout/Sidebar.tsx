@@ -61,7 +61,7 @@ export function Sidebar({
           </div>
 
           <span className="text-xl font-bold text-gray-900 dark:text-white">
-            StarterX Dashboard
+            StarteX Dashboard
           </span>
         </div>
 
