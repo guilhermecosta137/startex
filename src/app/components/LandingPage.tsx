@@ -91,7 +91,7 @@ export function LandingPage({ onLoginClick, onSignupClick }: LandingPageProps) {
                 Ver SaaS por Dentro
               </Button>
               <Button size="lg" variant="outline" className="text-lg px-8 py-3 border-gray-300 dark:border-gray-600 hover:border-gray-500" asChild>
-                <a href="https://github.com/guilhermecosta137" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/guilhermecosta137/startex" target="_blank" rel="noopener noreferrer">
                   <Github className="w-5 h-5 mr-2" />
                   Explorar Estrutura
                 </a>
